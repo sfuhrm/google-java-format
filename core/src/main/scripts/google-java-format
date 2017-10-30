@@ -1,0 +1,5 @@
+#! /bin/bash
+
+JAR=/usr/share/google-java-format/*.jar
+java -jar $JAR $@
+
